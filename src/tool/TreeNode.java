@@ -1,4 +1,4 @@
-package toolclass;
+package tool;
 
 public class TreeNode {
       public int val;
